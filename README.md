@@ -7,3 +7,4 @@ This repository serves as my fundamental version control and Git workflow log fo
 
 Learning Python
 Interested in cloud computing
+Goal: contribute to open source
