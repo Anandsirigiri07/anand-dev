@@ -6,3 +6,4 @@
 This repository serves as my fundamental version control and Git workflow log for the Portfolio Building course (B25CS0311).
 
 Learning Python
+Interested in cloud computing
